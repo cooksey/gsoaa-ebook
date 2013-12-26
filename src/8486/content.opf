@@ -19,6 +19,7 @@
     <item href="canon.html" id="canon" media-type="application/xhtml+xml"/>
     <item href="lost_hearts.html" id="lost_hearts" media-type="application/xhtml+xml"/>
     <item href="mezzotint.html" id="mezzotint" media-type="application/xhtml+xml"/>
+    <item href="ash_tree.html" id="ash_tree" media-type="application/xhtml+xml"/>
     <item href="www.gutenberg.org@files@8486@8486-8-1.html" id="id00611" media-type="application/xhtml+xml"/>
     <item href="cover.jpg" id="item2" media-type="image/jpeg"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
@@ -29,6 +30,7 @@
     <itemref idref="canon" linear="yes"/>
     <itemref idref="lost_hearts" linear="yes"/>
     <itemref idref="mezzotint" linear="yes"/>
+    <itemref idref="ash_tree" linear="yes"/>
   </spine>
   <guide>
     <reference href="cover.jpg" type="cover" title="Cover Image"/>

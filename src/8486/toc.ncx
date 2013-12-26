@@ -34,9 +34,9 @@
     </navPoint>
     <navPoint id="np-4" playOrder="4">
       <navLabel>
-        <text>THE ASH-TREE</text>
+        <text>The Ash-Tree</text>
       </navLabel>
-      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00243"/>
+      <content src="ash_tree.html#ash_tree"/>
     </navPoint>
     <navPoint id="np-5" playOrder="5">
       <navLabel>
