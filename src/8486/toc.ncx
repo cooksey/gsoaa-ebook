@@ -22,15 +22,15 @@
     </navPoint>
     <navPoint id="np-2" playOrder="2">
       <navLabel>
-        <text>LOST HEARTS</text>
+        <text>Lost Hearts</text>
       </navLabel>
-      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00099"/>
+      <content src="lost_hearts.html#lost_hearts"/>
     </navPoint>
     <navPoint id="np-3" playOrder="3">
       <navLabel>
-        <text>THE MEZZOTINT</text>
+        <text>The Mezzotint</text>
       </navLabel>
-      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00162"/>
+      <content src="mezzotint.html#mezzotint"/>
     </navPoint>
     <navPoint id="np-4" playOrder="4">
       <navLabel>
