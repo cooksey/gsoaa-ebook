@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 
+              'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/8486" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="Project Gutenberg EPUB-Maker v0.02 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ghost Stories of an Antiquary</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>M. R. JAMES</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00008"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>LOST HEARTS</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00099"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>THE MEZZOTINT</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00162"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>THE ASH-TREE</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00243"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>NUMBER 13</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00329"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>COUNT MAGNUS</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00432"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>'OH, WHISTLE, AND I'LL COME TO YOU, MY LAD'</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00495"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>THE TREASURE OF ABBOT THOMAS</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@8486@8486-8-1.html#id00617"/>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@8486@8486-8-1.html#id00631"/>
+        <navPoint id="np-10" playOrder="10">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="www.gutenberg.org@files@8486@8486-8-1.html#id00663"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>*** START: FULL LICENSE ***</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@8486@8486-8-1.html#id00715"/>
+        <navPoint id="np-12" playOrder="12">
+          <navLabel>
+            <text>Section 1. General Terms of Use and Redistributing Project Gutenberg-tm electronic works</text>
+          </navLabel>
+          <content src="www.gutenberg.org@files@8486@8486-8-1.html#id00718"/>
+        </navPoint>
+        <navPoint id="np-13" playOrder="13">
+          <navLabel>
+            <text>Section 2. Information about the Mission of Project Gutenberg-tm</text>
+          </navLabel>
+          <content src="www.gutenberg.org@files@8486@8486-8-1.html#id00745"/>
+        </navPoint>
+        <navPoint id="np-14" playOrder="14">
+          <navLabel>
+            <text>Section 3. Information about the Project Gutenberg Literary Archive Foundation</text>
+          </navLabel>
+          <content src="www.gutenberg.org@files@8486@8486-8-1.html#id00748"/>
+        </navPoint>
+        <navPoint id="np-15" playOrder="15">
+          <navLabel>
+            <text>Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</text>
+          </navLabel>
+          <content src="www.gutenberg.org@files@8486@8486-8-1.html#id00752"/>
+        </navPoint>
+        <navPoint id="np-16" playOrder="16">
+          <navLabel>
+            <text>Section 5. General Information About Project Gutenberg-tm electronic works.</text>
+          </navLabel>
+          <content src="www.gutenberg.org@files@8486@8486-8-1.html#id00758"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
