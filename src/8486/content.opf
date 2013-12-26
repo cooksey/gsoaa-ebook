@@ -16,6 +16,7 @@
   <manifest>
     <item href="pgepub.css" id="item1" media-type="text/css"/>
     <item href="www.gutenberg.org@files@8486@8486-8-0.html" id="id00000" media-type="application/xhtml+xml"/>
+    <item href="canon.html" id="canon" media-type="application/xhtml+xml"/>
     <item href="www.gutenberg.org@files@8486@8486-8-1.html" id="id00611" media-type="application/xhtml+xml"/>
     <item href="cover.jpg" id="item2" media-type="image/jpeg"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
@@ -23,6 +24,7 @@
   <spine toc="ncx">
     <itemref idref="id00000" linear="yes"/>
     <itemref idref="id00611" linear="yes"/>
+    <itemref idref="canon" linear="yes"/>
   </spine>
   <guide>
     <reference href="cover.jpg" type="cover" title="Cover Image"/>

@@ -16,9 +16,9 @@
   <navMap>
     <navPoint id="np-1" playOrder="1">
       <navLabel>
-        <text>M. R. JAMES</text>
+        <text>Canon Alberic's Scrap-Book</text>
       </navLabel>
-      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00008"/>
+      <content src="canon.html#canon_alberics_scrap_book"/>
     </navPoint>
     <navPoint id="np-2" playOrder="2">
       <navLabel>
