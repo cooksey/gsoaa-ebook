@@ -23,6 +23,7 @@
     <item href="number_13.html" id="number_13" media-type="application/xhtml+xml"/>
     <item href="count_magnus.html" id="count_magnus" media-type="application/xhtml_xml"/>
     <item href="oh_whistle.html" id="oh_whistle" media-type="application/xhtml+xml"/>
+    <item href="treasure.html" id="treasure" media-type="application/xhtml+xml"/>
     <item href="www.gutenberg.org@files@8486@8486-8-1.html" id="id00611" media-type="application/xhtml+xml"/>
     <item href="cover.jpg" id="item2" media-type="image/jpeg"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
@@ -37,6 +38,7 @@
     <itemref idref="number_13" linear="yes"/>
     <itemref idref="count_magnus" linear="yes"/>
     <itemref idref="oh_whistle" linear="yes"/>
+    <itemref idref="treasure" linear="yes"/>
   </spine>
   <guide>
     <reference href="cover.jpg" type="cover" title="Cover Image"/>
