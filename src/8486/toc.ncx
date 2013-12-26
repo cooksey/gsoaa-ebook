@@ -42,13 +42,13 @@
       <navLabel>
         <text>NUMBER 13</text>
       </navLabel>
-      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00329"/>
+      <content src="number_13.html#title"/>
     </navPoint>
     <navPoint id="np-6" playOrder="6">
       <navLabel>
-        <text>COUNT MAGNUS</text>
+        <text>Count Magnus</text>
       </navLabel>
-      <content src="www.gutenberg.org@files@8486@8486-8-0.html#id00432"/>
+      <content src="count_magnus.html#title"/>
     </navPoint>
     <navPoint id="np-7" playOrder="7">
       <navLabel>
