@@ -30,7 +30,6 @@
   </manifest>
   <spine toc="ncx">
     <itemref idref="id00000" linear="yes"/>
-    <itemref idref="id00611" linear="yes"/>
     <itemref idref="canon" linear="yes"/>
     <itemref idref="lost_hearts" linear="yes"/>
     <itemref idref="mezzotint" linear="yes"/>
@@ -39,6 +38,7 @@
     <itemref idref="count_magnus" linear="yes"/>
     <itemref idref="oh_whistle" linear="yes"/>
     <itemref idref="treasure" linear="yes"/>
+    <itemref idref="id00611" linear="yes"/>
   </spine>
   <guide>
     <reference href="cover.jpg" type="cover" title="Cover Image"/>
